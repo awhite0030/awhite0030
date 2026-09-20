@@ -73,7 +73,7 @@ Production Telegram support platform: topic isolation, anti-spam, Redis state, S
 
 ## Maintainer & contributions
 
-I maintain the following open-source projects end-to-end (architecture, runtime, docs, releases):
+### Maintainer
 
 | Repository | Role |
 | --- | --- |
@@ -82,6 +82,12 @@ I maintain the following open-source projects end-to-end (architecture, runtime,
 | **[smm-support-bot](https://github.com/awhite0030/smm-support-bot)** | Maintainer — high-volume Telegram support with SLA |
 | **[smm-shop-bot](https://github.com/awhite0030/smm-shop-bot)** | Maintainer — Telegram commerce with payments & RBAC |
 | **[atommail-admin](https://github.com/awhite0030/atommail-admin)** | Maintainer — operational control plane for AtomMail |
+
+### Contributor
+
+| Repository | Role |
+| --- | --- |
+| **[nanocoder](https://github.com/Nano-Collective/nanocoder)** | Contributor — open coding agent for the terminal (Nano Collective) |
 
 ## Engineering principles
 
