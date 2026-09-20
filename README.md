@@ -23,6 +23,18 @@
 
 ## Current work
 
+### [Nanocoder](https://github.com/Nano-Collective/nanocoder) `Core`
+
+An open coding agent for your terminal, built by a community collective rather than a company. Bring your own model, keep your code on your machine, and owe nothing to anyone.
+
+<p>
+  <img src="https://img.shields.io/badge/Cold%20start-~0ms-00C853?style=flat-square" alt="Cold start"/>
+  <img src="https://img.shields.io/badge/Edge%20latency-%3C50ms-00C853?style=flat-square" alt="Latency"/>
+  <img src="https://img.shields.io/badge/Persistence-0-00C853?style=flat-square" alt="Persistence"/>
+  <img src="https://img.shields.io/badge/Runtime-Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Runtime"/>
+  <a href="https://atommail.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-blue?style=flat-square" alt="Demo"/></a>
+</p>
+
 ### [AtomMail](https://github.com/awhite0030/atommail) `maintainer`
 
 Zero-registration disposable email on Cloudflare Workers + Email Routing. No accounts, no persistence, no tracking. Privacy by architecture.
